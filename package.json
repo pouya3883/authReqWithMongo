@@ -1,0 +1,22 @@
+{
+  "name": "authreqwithmongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pouya3883/authReqWithMongo.git"
+  },
+  "author": "Mohammad Pouya Allahyari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pouya3883/authReqWithMongo/issues"
+  },
+  "homepage": "https://github.com/pouya3883/authReqWithMongo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
